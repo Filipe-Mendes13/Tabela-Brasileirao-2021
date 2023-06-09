@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;
+    text-align: left;
+}
+th .classificacao{
+    width: 0px;
+}
+.classificacao{
+    width: 1px;
+}
+img{
+    width: 30px;
+    
+}
+
+
